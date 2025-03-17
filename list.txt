@@ -8,4 +8,5 @@ leberkaese
 chips
 wurst
 kease
-orangen
+tomaten
+paproka
