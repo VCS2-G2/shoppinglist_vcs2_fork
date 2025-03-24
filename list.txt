@@ -11,3 +11,5 @@ wurst
 kease
 tomaten
 paproka
+salat
+
